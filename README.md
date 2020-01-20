@@ -1,5 +1,6 @@
 # Multi-Agent Reinforcement Learning for Liquidation Strategy Analysis
-Source code for paper:Multi-agent reinforcement learning for liquidation strategy analysis accepted by ICML 2019 AI in Finance: Applications and Infrastructure for Multi-Agent Learning.
+Modeling an auction as a multi-layer neural network and framing optimal auction design as a constrained learning
+problem. Extending Myerson’s work for single item case to multi-item and multi-bidder settings.
 
 ## Abstract
 
@@ -45,7 +46,5 @@ Cooperative and competitive relationships: if two agents are in cooperative rela
 Trading trajectory: comparing to independent training, introducing a competitor makes the host agent learn to adapt to new environment and sell all shares of stock in the first two days
 
 
-## Authors
 
-Wenhang Bao & Xiao-Yang Liu
 
